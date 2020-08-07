@@ -4,9 +4,9 @@
 <p align='center'>
   i've been testing softwares half of my life. best thing i've learned: <b>quality</b> lords over quantity.  
 </p>
-<p align='center'>i like java, javascript, groovy, cypress and i know (but don't like) dotnet, selenium.</p>
+<p align='center'>i :heart: java, javascript, groovy, cypress and i know (but don't like) dotnet, selenium.</p>
 
-<h2 align='center'><i>ping me @ poponuts@gmail.com!</i></h2>
+<h3 align='center'><i>reach out to my :mailbox: poponuts@gmail.com</i></h3>
 
 <!--
 **poponuts/poponuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
