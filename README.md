@@ -1,4 +1,12 @@
 ### Hi there 👋
+[![banner](https://github.com/poponuts/poponuts/raw/master/assets/header-banner--optimized.svg)]
+<h1 align='center'> hello world! :wave:</h1>
+<p align='center'>
+  i've been testing softwares half of my life. best thing i've learned: <b>quality</b> lords over quantity.  
+</p>
+<p align='center'>i like java, javascript, groovy, cypress and i know (but don't like) dotnet, selenium.</p>
+
+<h1 align='center'><i>ping me @ poponuts@gmail.com!</i></h1>
 
 <!--
 **poponuts/poponuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
