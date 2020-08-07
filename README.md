@@ -6,7 +6,7 @@
 </p>
 <p align='center'>i like java, javascript, groovy, cypress and i know (but don't like) dotnet, selenium.</p>
 
-<h1 align='center'><i>ping me @ poponuts@gmail.com!</i></h1>
+<h2 align='center'><i>ping me @ poponuts@gmail.com!</i></h2>
 
 <!--
 **poponuts/poponuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
