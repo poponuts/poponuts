@@ -11,6 +11,7 @@
 - 🔭 I’m currently working on cypress
 - 🌱 I’m currently learning k6
 - 💬 Ask me about NBA
+- 👯 I’m looking to collaborate on https://dev.to/poponuts
 
 <!--
 **poponuts/poponuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
