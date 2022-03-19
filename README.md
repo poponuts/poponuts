@@ -4,16 +4,16 @@
 <p align='center'>
   i've been testing softwares half of my life. best thing i've learned: <b>quality</b> lords over quantity.  
 </p>
-<p align='center'>i :heart: java, javascript, groovy, cypress and i know (but don't like) dotnet, selenium.</p>
+<p align='center'>i :heart: java, javascript, cypress and i know (but not really a fan of) dotnet, selenium.</p>
 
 <h3 align='center'><i>reach out to my :mailbox: poponuts@gmail.com</i></h3>
 
 - 🔭 I’m currently working on cypress (i got a shirt from their team!) and ci/cd scripting 
 - 🌱 I’m currently learning k6 (i got stickers from their team!) and playwright
 - 💬 Ask me about NBA and quality engineering
-- 👯 I’m looking to collaborate on https://dev.to/poponuts
+- 👨‍💻 I’m looking to collaborate on https://dev.to/poponuts
 
-### Sample works (most of test frameworks I have done are set to private!) 😉
+### Sample works (most of extensive test automation frameworks I have done are set to private!) 😉
 - performance test (https://github.com/poponuts/k6-boilerplate)
 - unit test (https://github.com/poponuts/jest-boilerplate)
 - e2e / ui test (https://github.com/poponuts/playwright-boilerplate)
