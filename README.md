@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![banner](https://github.com/poponuts/poponuts/raw/master/assets/header-banner--optimized.svg)]
+<!--- [![banner](https://github.com/poponuts/poponuts/raw/master/assets/header-banner--optimized.svg)] --->
 <h1 align='center'> hello world! :wave:</h1>
 <p align='center'>
   i've been testing softwares half of my life. best thing i've learned: <b>quality</b> lords over quantity.  
@@ -8,9 +8,9 @@
 
 <h3 align='center'><i>reach out to my :mailbox: poponuts@gmail.com</i></h3>
 
-- 🔭 I’m currently working on cypress
-- 🌱 I’m currently learning k6
-- 💬 Ask me about NBA
+- 🔭 I’m currently working on cypress and ci/cd scripting 
+- 🌱 I’m currently learning k6 and playwright
+- 💬 Ask me about NBA and quality engineering
 - 👯 I’m looking to collaborate on https://dev.to/poponuts
 
 <!--
