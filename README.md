@@ -1,19 +1,24 @@
 ### Hi there 👋
 <!--- [![banner](https://github.com/poponuts/poponuts/raw/master/assets/header-banner--optimized.svg)] --->
-<h1 align='center'> hello world! :wave:</h1>
+<!-- h1 align='center'> hello world! :wave:</h1-->
 <p align='center'>
-  i've been testing softwares half of my life. best thing i've learned: <b>quality</b> lords over quantity.  
+  I have been testing software for half of my life. one of the best things I've learned is that <b>quality</b> lords over quantity.<br>  
+  I don't just test and automate! I look at the overall <b>quality</b> of the product and engineering experience :heart:.
 </p>
-<p align='center'>i :heart: java, javascript, cypress and i know (but not really a fan of) dotnet, selenium.</p>
+<p align='center'>I mainly use Javascript & Node nowadays and Typescript to some degree, and have used (but am now rusty) Python, Java, and Dotnet.</p>
 
 <h3 align='center'><i>reach out to my :mailbox: poponuts@gmail.com</i></h3>
 
-- 🔭 I’m currently working on cypress (i got a shirt from their team!) and ci/cd scripting 
-- 🌱 I’m currently learning k6 (i got stickers from their team!) and playwright
-- 💬 Ask me about NBA and quality engineering
+- 🤖 I've built e2e, api, ui test automation frameworks using Playwright, Cypress, and in my previous life, Selenium.
+- 💪 I've created performance test automation tools using k6 and Artillery and embedded security checks using Snyk and Stackhawk.
+- 🕸️ I've embedded these tools into fully DevOps capabilities using CI/CD tools such as Gitlab, Buildkite, and Bitbucket Pipelines.
+- 🔭 I've integrated Observability tools using Sumologic, Cloudwatch, Datadog, and NewRelic.
+- 📝 I've scripted using shell/bash scripts and YAML files to automate processes and have done some Machine Learning (ML) modelling using Jupyter and OpenAI.
+- 🌩️ I've performed tasks using Cloud services such as Amazon Web Services (AWS) and Google Cloud Platform (GCP) and Databases using Postgres, MySQL, and MongoDB.
+- 💬 Ask me about NBA and Quality engineering
 - 👨‍💻 I’m looking to collaborate on https://dev.to/poponuts
 
-### Sample works (most of extensive test automation frameworks I have done are set to private!) 😉
+### Sample works (most of the extensive test automation frameworks I have done are set to private!) 😉
 - performance test (https://github.com/poponuts/k6-boilerplate)
 - unit test (https://github.com/poponuts/jest-boilerplate)
 - e2e / ui test (https://github.com/poponuts/playwright-boilerplate)
