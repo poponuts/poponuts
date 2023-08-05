@@ -9,6 +9,8 @@
 
 <h3 align='center'><i>reach out to my :mailbox: poponuts@gmail.com</i></h3>
 
+<p align='center'><a href="https://stackoverflow.com/users/6527143/ebanster"><img src="https://stackoverflow.com/users/flair/6527143.png" width="208" height="58" alt="profile for ebanster at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ebanster at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p>
+
 - 🤖 I've built e2e, api, ui test automation frameworks using Playwright, Cypress, and in my previous life, Selenium.
 - 💪 I've created performance test automation tools using k6 and Artillery and embedded security checks using Snyk and Stackhawk.
 - 🕸️ I've embedded these tools into fully DevOps capabilities using CI/CD tools such as Gitlab, Buildkite, and Bitbucket Pipelines.
